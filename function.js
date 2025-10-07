@@ -1,5 +1,5 @@
-const area = (length, width) =>  length * width; 
-    
-    console.log(area(5, 10));
-
-
+function multiply(length, width) {
+    return length * width
+}
+  let areaofrectangle = multiply(5, 10)
+console.log(areaofrectangle)
